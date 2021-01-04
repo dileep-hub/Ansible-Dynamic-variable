@@ -1,0 +1,6 @@
+
+[ubuntu]
+52.66.196.57  ansible_ssh_user=ubuntu
+
+[redhat]
+192.168.1.4  ansible_ssh_user=root   ansible_ssh_pass=redhat ansible_connection=ssh
